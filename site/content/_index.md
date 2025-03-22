@@ -1,17 +1,14 @@
 ---
 title: juancool
-subtitle: lfe
-image: https://res.cloudinary.com/techjuan/image/upload/v1742656651/IMG_3855_x10hvd.heic
+subtitle: life
+image: https://res.cloudinary.com/techjuan/image/upload/v1742657194/IMG_3855_ze3qir.jpg
 blurb:
   heading: test
   text: test
 intro:
   heading: What?
   text: .....what
-products:
-  - text: one
-    image: "![图片描述](https://res.cloudinary.com/techjuan/image/upload/v1742656651/IM\
-      G_3855_x10hvd.heic)"
+products: []
 values:
   heading: test
   text: dkddlg
