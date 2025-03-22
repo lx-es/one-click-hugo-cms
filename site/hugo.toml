@@ -5,4 +5,4 @@ title = "卷儿的库"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = []
+images = ["https://res.cloudinary.com/techjuan/image/upload/v1742657194/IMG_3855_ze3qir.jpg"]
