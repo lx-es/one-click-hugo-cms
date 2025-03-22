@@ -1,19 +1,10 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: https://res.cloudinary.com/techjuan/image/upload/v1742655032/IMG_3855_azqfij.heic
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: valencia
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Friday: 9AM – 5PM haha,We’re closed on Sundays......"
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+We’d love **here**.
